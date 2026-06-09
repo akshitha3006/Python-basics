@@ -1,0 +1,12 @@
+name="akshitha"
+age=16
+marks=91.4
+driving_license= "False"
+converted_name=bool(name)
+converted_age=int(marks)
+converted_marks=float(age)
+converted_driving_license=str(driving_license)
+print("the converted data type of name is",type(converted_name))
+print("the converted data type of age is",type(converted_age))
+print("the converted data type of marks is",type(converted_marks))
+print("the converted data type of driving license is",type(converted_driving_license))
