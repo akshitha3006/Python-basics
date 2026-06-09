@@ -1,0 +1,13 @@
+name="akshitha"
+age=16
+marks=91.4
+driving_license= "False"
+
+print(name)
+print("the data type of name is",type(name))
+print(age)
+print("the data type of age is",type(age))
+print(marks)
+print("the data type of marks is",type(marks))
+print(driving_license)
+print("the data type of driving license is",type(driving_license))
